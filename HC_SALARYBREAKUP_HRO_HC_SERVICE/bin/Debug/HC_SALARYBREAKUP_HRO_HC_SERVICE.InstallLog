@@ -1,0 +1,123 @@
+﻿Installing assembly 'F:\hemant\NewGitProjectsClone\HC_SALARYCTCBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\bin\Debug\HC_SALARYBREAKUP_HRO_HC_SERVICE.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\hemant\NewGitProjectsClone\HC_SALARYCTCBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\bin\Debug\HC_SALARYBREAKUP_HRO_HC_SERVICE.InstallLog
+   assemblypath = F:\hemant\NewGitProjectsClone\HC_SALARYCTCBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\bin\Debug\HC_SALARYBREAKUP_HRO_HC_SERVICE.exe
+Installing service HGS HRO CTCBreakUP ...
+Service HGS HRO CTCBreakUP  has been successfully installed.
+Creating EventLog source HGS HRO CTCBreakUP  in log Application...
+Committing assembly 'F:\hemant\NewGitProjectsClone\HC_SALARYCTCBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\bin\Debug\HC_SALARYBREAKUP_HRO_HC_SERVICE.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\hemant\NewGitProjectsClone\HC_SALARYCTCBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\bin\Debug\HC_SALARYBREAKUP_HRO_HC_SERVICE.InstallLog
+   assemblypath = F:\hemant\NewGitProjectsClone\HC_SALARYCTCBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\bin\Debug\HC_SALARYBREAKUP_HRO_HC_SERVICE.exe
+Uninstalling assembly 'F:\hemant\NewGitProjectsClone\HC_SALARYCTCBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\bin\Debug\HC_SALARYBREAKUP_HRO_HC_SERVICE.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\hemant\NewGitProjectsClone\HC_SALARYCTCBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\bin\Debug\HC_SALARYBREAKUP_HRO_HC_SERVICE.InstallLog
+   assemblypath = F:\hemant\NewGitProjectsClone\HC_SALARYCTCBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\bin\Debug\HC_SALARYBREAKUP_HRO_HC_SERVICE.exe
+Removing EventLog source HGS HRO CTCBreakUP .
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'F:\hemant\NewGitProjectsClone\HC_SALARYCTCBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\bin\Debug\HC_SALARYBREAKUP_HRO_HC_SERVICE.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\hemant\NewGitProjectsClone\HC_SALARYCTCBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\bin\Debug\HC_SALARYBREAKUP_HRO_HC_SERVICE.InstallLog
+   assemblypath = F:\hemant\NewGitProjectsClone\HC_SALARYCTCBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\bin\Debug\HC_SALARYBREAKUP_HRO_HC_SERVICE.exe
+Removing EventLog source HGS HRO CTCBreakUP .
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'F:\hemant\NewGitProjectsClone\HC_SALARYCTCBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\bin\Debug\HC_SALARYBREAKUP_HRO_HC_SERVICE.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\hemant\NewGitProjectsClone\HC_SALARYCTCBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\bin\Debug\HC_SALARYBREAKUP_HRO_HC_SERVICE.InstallLog
+   assemblypath = F:\hemant\NewGitProjectsClone\HC_SALARYCTCBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\bin\Debug\HC_SALARYBREAKUP_HRO_HC_SERVICE.exe
+Removing EventLog source HGS HRO CTCBreakUP .
+Service HGS HRO CTCBreakUP  is being removed from the system...
+Service HGS HRO CTCBreakUP  was successfully removed from the system.
+Installing assembly 'F:\hemant\NewGitProjectsClone\HC_SALARYCTCBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\bin\Debug\HC_SALARYBREAKUP_HRO_HC_SERVICE.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\hemant\NewGitProjectsClone\HC_SALARYCTCBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\bin\Debug\HC_SALARYBREAKUP_HRO_HC_SERVICE.InstallLog
+   assemblypath = F:\hemant\NewGitProjectsClone\HC_SALARYCTCBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\bin\Debug\HC_SALARYBREAKUP_HRO_HC_SERVICE.exe
+Installing service HGS HRO CTCBreakUP ...
+Service HGS HRO CTCBreakUP  has been successfully installed.
+Creating EventLog source HGS HRO CTCBreakUP  in log Application...
+Committing assembly 'F:\hemant\NewGitProjectsClone\HC_SALARYCTCBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\bin\Debug\HC_SALARYBREAKUP_HRO_HC_SERVICE.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\hemant\NewGitProjectsClone\HC_SALARYCTCBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\bin\Debug\HC_SALARYBREAKUP_HRO_HC_SERVICE.InstallLog
+   assemblypath = F:\hemant\NewGitProjectsClone\HC_SALARYCTCBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\bin\Debug\HC_SALARYBREAKUP_HRO_HC_SERVICE.exe
+Uninstalling assembly 'F:\hemant\NewGitProjectsClone\HC_SALARYCTCBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\bin\Debug\HC_SALARYBREAKUP_HRO_HC_SERVICE.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\hemant\NewGitProjectsClone\HC_SALARYCTCBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\bin\Debug\HC_SALARYBREAKUP_HRO_HC_SERVICE.InstallLog
+   assemblypath = F:\hemant\NewGitProjectsClone\HC_SALARYCTCBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\bin\Debug\HC_SALARYBREAKUP_HRO_HC_SERVICE.exe
+Removing EventLog source HGS HRO CTCBreakUP .
+Service HGS HRO CTCBreakUP  is being removed from the system...
+Service HGS HRO CTCBreakUP  was successfully removed from the system.
+Installing assembly 'F:\hemant\NewGitProjectsClone\HC_SALARYCTCBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\bin\Debug\HC_SALARYBREAKUP_HRO_HC_SERVICE.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\hemant\NewGitProjectsClone\HC_SALARYCTCBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\bin\Debug\HC_SALARYBREAKUP_HRO_HC_SERVICE.InstallLog
+   assemblypath = F:\hemant\NewGitProjectsClone\HC_SALARYCTCBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\bin\Debug\HC_SALARYBREAKUP_HRO_HC_SERVICE.exe
+Installing service HGS HRO CTCBreakUP ...
+Service HGS HRO CTCBreakUP  has been successfully installed.
+Creating EventLog source HGS HRO CTCBreakUP  in log Application...
+Committing assembly 'F:\hemant\NewGitProjectsClone\HC_SALARYCTCBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\bin\Debug\HC_SALARYBREAKUP_HRO_HC_SERVICE.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\hemant\NewGitProjectsClone\HC_SALARYCTCBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\bin\Debug\HC_SALARYBREAKUP_HRO_HC_SERVICE.InstallLog
+   assemblypath = F:\hemant\NewGitProjectsClone\HC_SALARYCTCBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\bin\Debug\HC_SALARYBREAKUP_HRO_HC_SERVICE.exe
+Installing assembly 'D:\Projects\Documentation of Salary Breakup HRO to HC\HC_SALARYBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\bin\Debug\HC_SALARYBREAKUP_HRO_HC_SERVICE.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Projects\Documentation of Salary Breakup HRO to HC\HC_SALARYBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\bin\Debug\HC_SALARYBREAKUP_HRO_HC_SERVICE.InstallLog
+   assemblypath = D:\Projects\Documentation of Salary Breakup HRO to HC\HC_SALARYBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\bin\Debug\HC_SALARYBREAKUP_HRO_HC_SERVICE.exe
+Installing service HGS HRO CTCBreakUP ...
+Creating EventLog source HGS HRO CTCBreakUP  in log Application...
+Rolling back assembly 'D:\Projects\Documentation of Salary Breakup HRO to HC\HC_SALARYBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\bin\Debug\HC_SALARYBREAKUP_HRO_HC_SERVICE.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Projects\Documentation of Salary Breakup HRO to HC\HC_SALARYBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\bin\Debug\HC_SALARYBREAKUP_HRO_HC_SERVICE.InstallLog
+   assemblypath = D:\Projects\Documentation of Salary Breakup HRO to HC\HC_SALARYBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\bin\Debug\HC_SALARYBREAKUP_HRO_HC_SERVICE.exe
+Restoring event log to previous state for source HGS HRO CTCBreakUP .
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'D:\Projects\Documentation of Salary Breakup HRO to HC\HC_SALARYBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\bin\Debug\HC_SALARYBREAKUP_HRO_HC_SERVICE.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Projects\Documentation of Salary Breakup HRO to HC\HC_SALARYBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\bin\Debug\HC_SALARYBREAKUP_HRO_HC_SERVICE.InstallLog
+   assemblypath = D:\Projects\Documentation of Salary Breakup HRO to HC\HC_SALARYBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\bin\Debug\HC_SALARYBREAKUP_HRO_HC_SERVICE.exe
+Installing service HGS HRO CTCBreakUP ...
+Service HGS HRO CTCBreakUP  has been successfully installed.
+Creating EventLog source HGS HRO CTCBreakUP  in log Application...
+Committing assembly 'D:\Projects\Documentation of Salary Breakup HRO to HC\HC_SALARYBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\bin\Debug\HC_SALARYBREAKUP_HRO_HC_SERVICE.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Projects\Documentation of Salary Breakup HRO to HC\HC_SALARYBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\bin\Debug\HC_SALARYBREAKUP_HRO_HC_SERVICE.InstallLog
+   assemblypath = D:\Projects\Documentation of Salary Breakup HRO to HC\HC_SALARYBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\bin\Debug\HC_SALARYBREAKUP_HRO_HC_SERVICE.exe
+Uninstalling assembly 'D:\Projects\Documentation of Salary Breakup HRO to HC\HC_SALARYBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\bin\Debug\HC_SALARYBREAKUP_HRO_HC_SERVICE.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Projects\Documentation of Salary Breakup HRO to HC\HC_SALARYBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\bin\Debug\HC_SALARYBREAKUP_HRO_HC_SERVICE.InstallLog
+   assemblypath = D:\Projects\Documentation of Salary Breakup HRO to HC\HC_SALARYBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\bin\Debug\HC_SALARYBREAKUP_HRO_HC_SERVICE.exe
+Removing EventLog source HGS HRO CTCBreakUP .
+Service HGS HRO CTCBreakUP  is being removed from the system...
+Service HGS HRO CTCBreakUP  was successfully removed from the system.
+Installing assembly 'D:\Projects\Documentation of Salary Breakup HRO to HC\HC_SALARYBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\bin\Debug\HC_SALARYBREAKUP_HRO_HC_SERVICE.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Projects\Documentation of Salary Breakup HRO to HC\HC_SALARYBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\bin\Debug\HC_SALARYBREAKUP_HRO_HC_SERVICE.InstallLog
+   assemblypath = D:\Projects\Documentation of Salary Breakup HRO to HC\HC_SALARYBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\bin\Debug\HC_SALARYBREAKUP_HRO_HC_SERVICE.exe
+Installing service HGS HRO CTCBreakUP ...
+Service HGS HRO CTCBreakUP  has been successfully installed.
+Creating EventLog source HGS HRO CTCBreakUP  in log Application...
+Committing assembly 'D:\Projects\Documentation of Salary Breakup HRO to HC\HC_SALARYBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\bin\Debug\HC_SALARYBREAKUP_HRO_HC_SERVICE.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Projects\Documentation of Salary Breakup HRO to HC\HC_SALARYBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\bin\Debug\HC_SALARYBREAKUP_HRO_HC_SERVICE.InstallLog
+   assemblypath = D:\Projects\Documentation of Salary Breakup HRO to HC\HC_SALARYBREAKUP_HRO_HC_SERVICE\HC_SALARYBREAKUP_HRO_HC_SERVICE\bin\Debug\HC_SALARYBREAKUP_HRO_HC_SERVICE.exe
